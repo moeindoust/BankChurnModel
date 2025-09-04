@@ -95,7 +95,7 @@
 
 ۱. **کلون کردن ریپازیتوری:**
 ```bash
-git clone [https://github.com/moeindoust/BankChurnModel.git](https://github.com/moeindoust/BankChurnModel.git)
+git clone https://github.com/moeindoust/BankChurnModel.git
 cd BankChurnModel
 ```
 
